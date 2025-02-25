@@ -3,7 +3,7 @@
 ## Backend project setup
 
 Backend repository:
-https://github.com/caio-2k/nlw-esports-react (/server)
+https://github.com/rocketseat-education/nlw-esports-ignite (/server)
 
 1 - Install dependencies with npm and acesss server folder
 
