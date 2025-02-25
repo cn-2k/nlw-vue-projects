@@ -1,0 +1,70 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "jsx": "preserve",
+    "jsxFactory": "h",
+    "jsxFragmentFactory": "Fragment",
+    "paths": {
+      "#imports": [
+        "/home/caio.vinicius/nlw-vue-projects/nlw-spacetime-nuxt/web/.nuxt/types/nitro-imports"
+      ],
+      "#paths": [
+        "/home/caio.vinicius/nlw-vue-projects/nlw-spacetime-nuxt/web/node_modules/nuxt/dist/core/runtime/nitro/paths"
+      ],
+      "~": [
+        "/home/caio.vinicius/nlw-vue-projects/nlw-spacetime-nuxt/web"
+      ],
+      "~/*": [
+        "/home/caio.vinicius/nlw-vue-projects/nlw-spacetime-nuxt/web/*"
+      ],
+      "@": [
+        "/home/caio.vinicius/nlw-vue-projects/nlw-spacetime-nuxt/web"
+      ],
+      "@/*": [
+        "/home/caio.vinicius/nlw-vue-projects/nlw-spacetime-nuxt/web/*"
+      ],
+      "~~": [
+        "/home/caio.vinicius/nlw-vue-projects/nlw-spacetime-nuxt/web"
+      ],
+      "~~/*": [
+        "/home/caio.vinicius/nlw-vue-projects/nlw-spacetime-nuxt/web/*"
+      ],
+      "@@": [
+        "/home/caio.vinicius/nlw-vue-projects/nlw-spacetime-nuxt/web"
+      ],
+      "@@/*": [
+        "/home/caio.vinicius/nlw-vue-projects/nlw-spacetime-nuxt/web/*"
+      ],
+      "assets": [
+        "/home/caio.vinicius/nlw-vue-projects/nlw-spacetime-nuxt/web/assets"
+      ],
+      "assets/*": [
+        "/home/caio.vinicius/nlw-vue-projects/nlw-spacetime-nuxt/web/assets/*"
+      ],
+      "public": [
+        "/home/caio.vinicius/nlw-vue-projects/nlw-spacetime-nuxt/web/public"
+      ],
+      "public/*": [
+        "/home/caio.vinicius/nlw-vue-projects/nlw-spacetime-nuxt/web/public/*"
+      ],
+      "#image": [
+        "/home/caio.vinicius/nlw-vue-projects/nlw-spacetime-nuxt/web/node_modules/@nuxt/image/dist/runtime"
+      ],
+      "#image/*": [
+        "/home/caio.vinicius/nlw-vue-projects/nlw-spacetime-nuxt/web/node_modules/@nuxt/image/dist/runtime/*"
+      ]
+    }
+  },
+  "include": [
+    "/home/caio.vinicius/nlw-vue-projects/nlw-spacetime-nuxt/web/.nuxt/types/nitro-nuxt.d.ts",
+    "./types/nitro.d.ts",
+    "../**/*",
+    "../server/**/*"
+  ]
+}

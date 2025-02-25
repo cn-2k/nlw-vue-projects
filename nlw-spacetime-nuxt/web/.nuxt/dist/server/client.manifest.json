@@ -1,0 +1,15 @@
+{
+  "@vite/client": {
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [],
+    "module": true,
+    "resourceType": "script"
+  },
+  "/home/caio.vinicius/nlw-vue-projects/nlw-spacetime-nuxt/web/node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "isEntry": true,
+    "file": "/home/caio.vinicius/nlw-vue-projects/nlw-spacetime-nuxt/web/node_modules/nuxt/dist/app/entry.js"
+  }
+}
